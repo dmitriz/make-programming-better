@@ -6,3 +6,6 @@ Links to posts and articles aiming to improve the current state of programming
 - Questions on Quora: [Do you agree with John Backus in "Can Programming Be Liberated from the Von Neumann Style?" regarding functional style programming?
 ](https://www.quora.com/Do-you-agree-with-John-Backus-in-Can-Programming-Be-Liberated-from-the-Von-Neumann-Style-regarding-functional-style-programming).
 - On Hacker News: https://news.ycombinator.com/item?id=768057.
+
+### Edsger W. Dijkstra
+- [Interview, Austin, 04–03–1985](http://www.cs.utexas.edu/users/EWD/misc/vanVlissingenInterview.html).
