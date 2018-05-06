@@ -14,3 +14,8 @@ Links to posts and articles aiming to improve the current state of programming
 - [What is spaghetti code?](https://web.archive.org/web/20150910093715/https://michaelochurch.wordpress.com/2012/08/15/what-is-spaghetti-code/)
 - [Maintenance and Coding Standards](https://web.archive.org/web/20140716023502/http://funceng.com/2013/08/22/maintenance-and-coding-standards/)- [Functional programs rarely rot](https://web.archive.org/web/20140716023452/http://michaelochurch.wordpress.com/2012/12/06/functional-programs-rarely-rot/), December 6, 2012.
 - [MOOCs will disrupt the corporate world](https://web.archive.org/web/20151221144207/https://michaelochurch.wordpress.com/2012/12/07/moocs-disrupting-work/), December 7, 2012.
+
+### JavaScript Promises
+- [Promises/A+ Considered Harmful](http://robotlolita.me/2013/06/28/promises-considered-harmful.html) by [@robotlolita](https://github.com/robotlolita)
+- [Stop Trying to Catch Me](https://jlongster.com/Stop-Trying-to-Catch-Me) by James Long.
+- [Promise is the wrong abstraction](http://anttih.com/articles/2017/12/25/promise-is-the-wrong-abstraction)
