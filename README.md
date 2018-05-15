@@ -19,3 +19,4 @@ Links to posts and articles aiming to improve the current state of programming
 - [Promises/A+ Considered Harmful](http://robotlolita.me/2013/06/28/promises-considered-harmful.html) by [@robotlolita](https://github.com/robotlolita)
 - [Stop Trying to Catch Me](https://jlongster.com/Stop-Trying-to-Catch-Me) by James Long.
 - [Promise is the wrong abstraction](http://anttih.com/articles/2017/12/25/promise-is-the-wrong-abstraction)
+- [Promises are not neutral enough](https://staltz.com/promises-are-not-neutral-enough.html)
